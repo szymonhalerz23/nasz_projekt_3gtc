@@ -1,0 +1,49 @@
+:root {
+    --tlo-strony: #0788df;
+    --font-color: rgb(255, 255, 255);
+}
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+    html, body {
+    font-weight: 300;`
+    font-size: 12px;
+    background: var(--tlo-strony);
+    color: var(--font-color);
+  }
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}
